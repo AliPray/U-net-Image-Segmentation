@@ -549,7 +549,6 @@ Using `@tf.function` optimizes the function for TensorFlow's execution graph, pr
 
 # Designing the U-net model
 ![image](unet.png)
-The `CustomUNet` function you've provided outlines the construction of a U-Net model for semantic segmentation. Let's break down its components and functionality:
 
 ### Custom U-Net Model for Semantic Segmentation
 
